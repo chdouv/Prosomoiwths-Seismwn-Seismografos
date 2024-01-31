@@ -27,7 +27,7 @@ Jumper Wires 15cm Female to Male - Pack of 10 x 3	3 x 1,80 €
 Σύνολο	105,70 €
 
 ΔΙΕΥΘΥΝΣΗ ΑΠΟΘΕΤΗΡΙΟΥ GITHUB:
-https://github.com/chdouv/Seismografos-1dimpolichni
+https://github.com/chdouv/Prosomoiwths-Seismwn-Seismografos
 
 Α. ΕΙΣΑΓΩΓΗ
 Οι σεισμοί, είτε τους καταλαβαίνουμε είτε όχι, γίνονται συνεχώς και αποτελούν ένα φυσικό φαινόμενο που επηρεάζει τη ζωή μας, ιδιαίτερα στην Ελλάδα, που είναι μια σεισμογενής χώρα.
