@@ -16,15 +16,18 @@
 Η ομάδα ρομποτικής του σχολείου μας, που αποτελείται από μαθητές της ΣΤ και Ε τάξης, θα αναλάβει να ολοκληρώσει την εργασία. Οι μαθητές θα χωριστούν σε μικρότερες ομάδες όπου η καθεμιά θα είναι υπεύθυνη για ένα επιμέρους τμήμα της εργασίας. 
 Ο υπεύθυνος εκπαιδευτικός θα αναλάβει να προετοιμάσει τους μαθητές στην χρήση των απαιτούμενων εξαρτημάτων και τον προγραμματισμό τους, να αναθέσει τις εργασίες κάθε υπο-ομάδας και να επιβλέπει την πορεία της εργασίας.
 Οι μαθητές θα μπορούν είτε να εργάζονται στο εργαστήριο Πληροφορικής του σχολείου, μετά το πέρας των μαθητών είτε να παίρνουν τα υλικά στο σπίτι τους και να δουλεύουν αυτόνομα ή και ομαδικά.
-ΑΠΑΙΤΟΥΜΕΝΟΣ ΕΞΟΠΛΙΣΜΟΣ:
-Υλικά	Κόστος
-Micro:Bit x 3	3 x 20,00 €
-Edge Connector Breakout Board for BBC micro:bit - Pre-built x 3	3 x 6,00 €
-Μπαταριοθήκη 2xAA με JST PH & Διακόπτη x 3	3 x 1,60 €
-DC Motor in Micro Servo Body x 2	2 x 2,50 €
-Servo Standard 6kg.cm Continuous Rotation	12,50 €
-Jumper Wires 15cm Female to Male - Pack of 10 x 3	3 x 1,80 €
-Σύνολο	105,70 €
+
+ΑΠΑΙΤΟΥΜΕΝΟΣ ΕΞΟΠΛΙΣΜΟΣ:<BR>
+Υλικά Κόστος <BR>
+Micro:Bit x 3 	3 x 20,00 € <BR>
+Edge Connector Breakout Board for BBC micro:bit - Pre-built x 3 	3 x 6,00 € <BR>
+Μπαταριοθήκη 2xAA με JST PH & Διακόπτη x 3 	3 x 1,60 € <BR>
+Hobby Motor 3-6V DC 17000-18000rpm with Wires  1,20 € <BR>
+Ισχυρός Κινητήρας Δόνησης 20x25mm  1,60 € <BR>
+Servo Micro 2.2kg.cm Plastic Gears (Waveshare SG90)  3,60 € <BR>
+Servo Standard 6kg.cm Continuous Rotation 12,50 € <BR>
+Jumper Wires 15cm Female to Male - Pack of 10 x 3 	3 x 1,80 € <BR>
+Σύνολο 103,83 €<BR>
 
 ΔΙΕΥΘΥΝΣΗ ΑΠΟΘΕΤΗΡΙΟΥ GITHUB:
 https://github.com/chdouv/Prosomoiwths-Seismwn-Seismografos
