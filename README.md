@@ -3,6 +3,8 @@
 
 https://openedtech.ellak.gr/robotics2024/prosomiotis-sismon-ke-sismografos-robostar-1o-dimotiko-scholio-polichnis/
 
+https://blogs.sch.gr/chdouvletis/2024/06/16/prosomoiotis-seismon-kai-seismografos-robostar-1o-dimotiko-scholeio-polichnis/
+
 Προσομοιωτής σεισμών και σεισμογράφος
 
 ΣΥΝΤΟΜΗ ΠΕΡΙΓΡΑΦΗ
